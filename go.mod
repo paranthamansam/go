@@ -1,4 +1,4 @@
-module github.com/sam619/go
+module github.com/paranthamansam/go
 
 go 1.13
 
